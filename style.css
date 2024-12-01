@@ -1,0 +1,29 @@
+.botao{
+    display: block;
+    width: 10%;
+    padding: 10px 15px;
+    border: bisque;
+    background:#333;
+    color: aliceblue;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+input[type='text']{
+    width: 30%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.botao:hover{
+    background: #7e3434;
+}
+body{
+    background-color:bisque;
+}
+.problema{
+    background: red;
+    color: #ccc;
+    padding: 5px;
+    margin: 5px;
+}
